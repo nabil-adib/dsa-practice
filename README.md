@@ -1,17 +1,7 @@
 # DSA Practice
 
-Daily Data Structures and Algorithms practice using LeetCode problems.
+This repository contains my Data Structures and Algorithms practice
+implemented in C++.
 
-## Focus
-- Core DSA concepts
-- Clean and readable solutions
-- Optimal time and space complexity
-- Consistent daily problem solving
-
-## Languages
-- C++
-
-## Source
-- LeetCode (via daily problem subscriptions)
-
-This repository is updated regularly to track progress and improve problem-solving skills.
+The problems come from a mix of academic lab tasks and LeetCode,
+solved as part of regular coursework and self-practice.
